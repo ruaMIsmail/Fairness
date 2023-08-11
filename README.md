@@ -1,6 +1,6 @@
 # Fairness in Classification and Representation Learning
 
-## Preliminaries
+## Intro
 
 In this project, I explore the concepts of fairness in classification and representation learning, focusing on the Adult dataset for binary classification. To evaluate classifier performance, I've defined three key metrics: accuracy, reweighed accuracy, and ΔDP. These metrics have been implemented as Python functions in the `model.py` file.
 
